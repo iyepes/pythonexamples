@@ -1,4 +1,5 @@
 #Credenciales del Twitter API
+#Estas credenciales ya están revocadas, usarlas le generará error.
 def consumer_key():
 	#Add Consumer Key (API Key)
 	return "bphRC8L9YwgArcTWl6QAxd8ZW"
